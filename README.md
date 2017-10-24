@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*The Advanced Game Developer's Toolkit*](http://www.apress.com/9781484210987) by Rex van der Spuy (Apress, ).
+This repository accompanies [*The Advanced Game Developer's Toolkit*](http://www.apress.com/9781484210987) by Rex van der Spuy (Apress, 2017).
 
 [comment]: #cover
 

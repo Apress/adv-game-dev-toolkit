@@ -1,6 +1,6 @@
 Freeware License, some rights reserved
 
-Copyright (c)  Rex van der Spuy
+Copyright (c) 2017 Rex van der Spuy
 
 Permission is hereby granted, free of charge, to anyone obtaining a copy 
 of this software and associated documentation files (the "Software"), 
